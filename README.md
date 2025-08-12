@@ -1,5 +1,5 @@
-# <h1align = 'center'>Hi 👋, I'm Rohin Gupta</h1>
-# <h1align = 'center'>A passionate FULL STACK web developer from India</h1>
+# <h1 align = 'center'>Hi 👋, I'm Rohin Gupta</h1>
+# <h3 align = 'center'>A passionate FULL STACK web developer from India</h3>
 # 💫 About Me:
 🔭 I’m currently upskilling myself<br>👯 I’m looking to collaborate on scalable Full stack projects<br>🤝 I’m looking for mentorship in advanced web architecture<br>🌱 I’m currently learning to make interactive and modern websites<br>💬 Ask me about incorporating smooth animations<br>
 
